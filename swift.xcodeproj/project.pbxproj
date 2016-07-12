@@ -26,6 +26,7 @@
 		4332EA331D33E7740008DFFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4332EA361D33E7740008DFFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4332EA381D33E7740008DFFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4332EA3E1D33E78A0008DFFD /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				4332EA2D1D33E7740008DFFD /* ViewController.h */,
 				4332EA2E1D33E7740008DFFD /* ViewController.m */,
 				4332EA301D33E7740008DFFD /* Main.storyboard */,
+				4332EA3E1D33E78A0008DFFD /* MyPlayground.playground */,
 				4332EA331D33E7740008DFFD /* Assets.xcassets */,
 				4332EA351D33E7740008DFFD /* LaunchScreen.storyboard */,
 				4332EA381D33E7740008DFFD /* Info.plist */,
